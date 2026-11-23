@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+.idea/
+.vscode/
+dist/
+build/
+
+# Local project archives
+BubtOps_Source.zip
+Inter-4.1.zip
+Inter-4.1/
+
+# Local backups
+backup files/
+backups/
+*.backup
+*.attention-backup
+*.phase2-backup
